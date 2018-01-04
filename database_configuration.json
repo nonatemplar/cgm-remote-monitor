@@ -1,4 +1,4 @@
 {
-    "url": null,
-    "collection": null
+    "url": "mongodb://senbodicloudadmin:shenBao1902@ds036079.mlab.com:36079/senbodimango",
+    "collection": "mongo-test-db"
 }
