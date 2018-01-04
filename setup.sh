@@ -6,4 +6,4 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y python-software-properties python git
 sudo apt-get install -y build-essential
 
-npm install
+npm install npm@4
